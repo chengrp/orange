@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# 环境变量和密钥
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 输出文件（保留目录结构）
+output/**/*.png
+output/**/*.jpg
+output/**/*.jpeg
+output/**/*.gif
+output/**/*.txt
+output/**/*.py
+
+# 但保留 .gitkeep 文件
+!.gitkeep
+
+# 临时文件
+*.tmp
+*.bak
+*.log
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 测试
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 文档生成
+docs/_build/

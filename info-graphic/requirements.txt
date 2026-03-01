@@ -1,0 +1,13 @@
+# Info-Graphic - High-Density Infographic Generator
+# Python Dependencies
+
+# Image Generation
+google-generativeai>=0.8.0
+
+# Standard library (no installation required)
+# - sys
+# - os
+# - pathlib
+# - json
+# - re
+# - datetime

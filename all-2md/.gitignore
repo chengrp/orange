@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+test_*.html
+test_*.pdf
+test_*.docx
+test_*.pptx
+test_*.xlsx
+test_*.png
+test_*.jpg
+output_*.md
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Skill packages
+*.skill

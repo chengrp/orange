@@ -1,0 +1,28 @@
+# All-2-MD Skill Dependencies
+# Install with: pip install -r requirements.txt
+# Or simply: pip install markitdown (includes all dependencies)
+
+# Core package
+markitdown==0.0.2
+
+# MarkItDown automatically installs these dependencies:
+# azure-ai-documentintelligence  - OCR for images and scanned PDFs
+# azure-identity                 - Azure authentication
+# beautifulsoup4                 - HTML parsing
+# charset-normalizer             - Character encoding detection
+# mammoth                        - DOCX processing
+# markdownify                    - HTML to Markdown conversion
+# numpy                          - Array processing
+# olefile                        - OLE file format support
+# openai                         - AI services integration
+# openpyxl                       - XLSX processing
+# pandas                         - Data manipulation
+# pathvalidate                   - Path validation
+# pdfminer-six                  - PDF text extraction
+# puremagic                      - File type detection
+# pydub                          - Audio processing
+# python-pptx                    - PPTX processing
+# requests                       - HTTP library
+# speechrecognition              - Audio transcription
+# xlrd                           - XLS processing
+# youtube-transcript-api         - YouTube caption extraction

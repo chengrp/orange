@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 报告输出
+reports/
+**/reports/
+
+# 日志文件
+logs/
+*.log
+
+# 缓存数据
+.cache/
+config/user_github_map.json
+**/.cache/
+
+# 运行时生成的数据文件
+skills_data.json
+skills_health_data.json
+skills_version_check.json
+skills_innovation_data.json
+ownership_config.json
+**/scripts/*.json
+**/config/*.json
+
+# 测试文件
+test_*.py
+test_*.txt
+test_*.json
+test_*.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+nul
+
+# 临时文件
+*.tmp
+*.bak
+*~
+
+# Serena 工具缓存
+.serena/
+
+# Windows 错误文件
+nul

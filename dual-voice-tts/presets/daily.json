@@ -1,0 +1,6 @@
+{
+  "name": "daily",
+  "description": "日常对话",
+  "female_voice": "zh-CN-XiaoxiaoNeural",
+  "male_voice": "zh-CN-YunjianNeural"
+}

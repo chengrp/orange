@@ -1,0 +1,6 @@
+{
+  "name": "news",
+  "description": "新闻播报",
+  "female_voice": "zh-CN-XiaoxiaoNeural",
+  "male_voice": "zh-CN-YunyangNeural"
+}

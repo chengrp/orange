@@ -1,0 +1,6 @@
+{
+  "name": "kids",
+  "description": "儿童内容",
+  "female_voice": "zh-CN-XiaoruiNeural",
+  "male_voice": "zh-CN-YunxiaNeural"
+}

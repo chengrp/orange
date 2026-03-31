@@ -1,0 +1,6 @@
+{
+  "name": "podcast",
+  "description": "播客/访谈",
+  "female_voice": "zh-CN-XiaohanNeural",
+  "male_voice": "zh-CN-YunfengNeural"
+}

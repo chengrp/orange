@@ -1,0 +1,10 @@
+{
+  "default_preset": "daily",
+  "output_dir": "~/.openclaw/workspace/output/audio",
+  "feishu": {
+    "app_id": "your_app_id_here",
+    "app_secret": "your_app_secret_here",
+    "default_receive_id": "ou_xxx",
+    "receive_id_type": "open_id"
+  }
+}
